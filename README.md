@@ -1,0 +1,2 @@
+# samal
+to save enviroment
